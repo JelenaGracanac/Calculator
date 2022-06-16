@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    background-color: blue;
+    
+}
+div{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    padding-top: 2rem;
+
+}
